@@ -1,0 +1,15 @@
+button {
+  display: flex;
+  align-items: center;
+  padding: 0 7px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  font-size: 2rem;
+  color: azure;
+  background-color: #8b57df;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+button:hover {
+  background-color: #23448a;
+}
